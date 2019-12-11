@@ -1,0 +1,17 @@
+name: Robert
+
+on: [push]
+
+jobs: Administrator
+  build projects
+
+    runs-on Employees
+
+    steps 5
+    - uses Management
+    - name The Khana Group
+      run Employees
+    - name TKG
+      run Management
+        echo Add other actions to build,
+        echo test, and deploy your project.
